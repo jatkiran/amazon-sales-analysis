@@ -154,3 +154,11 @@ This dashboard can help e-commerce businesses:
 - Identify underperforming categories
 - Improve product and inventory decisions
 - Support data-driven sales strategies
+
+## 📸 Dashboard Preview
+
+### Amazon Sales Analysis Dashboard
+
+![Amazon Sales Analysis Dashboard](C:\Users\Admin\Pictures\Screenshots\Analysis.png)
+
+---
