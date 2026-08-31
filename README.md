@@ -159,6 +159,6 @@ This dashboard can help e-commerce businesses:
 
 ### Amazon Sales Analysis Dashboard
 
-![Amazon Sales Analysis Dashboard](C:\Users\Admin\Pictures\Screenshots\Analysis.png)
+![Amazon Sales Analysis Dashboard](Analysis.png)
 
 ---
